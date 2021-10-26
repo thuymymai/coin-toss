@@ -1,0 +1,11 @@
+button {
+  font: bold 16px/1.5 Helvetica, Verdana, sans-serif;
+  width:10em;
+}
+body{
+  text-align: center;
+}
+#user #result{
+  color: #ff000f;
+  font-weight: bold;
+}
